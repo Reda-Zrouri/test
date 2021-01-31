@@ -1,0 +1,20 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	font-family: sans-serif;
+}
+
+
+/* HEADER */ 
+
+header
+{
+	background: url(images/main.jpg) center;
+	height: 300px;
+	width: auto;
+}
